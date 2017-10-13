@@ -8,4 +8,4 @@ def story1(debug= False):
 	out = ""
 	out += "One day me and my friend, " + friend1
 	
-	return out
+	return out 
