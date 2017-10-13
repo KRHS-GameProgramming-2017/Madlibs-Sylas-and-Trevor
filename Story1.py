@@ -1,5 +1,7 @@
 from Getter import *
 
+#trever waz gheeer
+
 def story1(debug= False):
 	if debug: print "--In story1 function--"
 	
