@@ -1,5 +1,7 @@
 from Getter import *
 
+#sylas wazzz heeeeer
+
 def story1(debug= False):
 	if debug: print "--In story1 function--"
 	
