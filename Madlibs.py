@@ -1,7 +1,7 @@
 # Written by Chris Spooner
 from Screens import *
 from Getter import *
-from Story1 import *
+from Story1#868686 import *
 
 def madlibs(debug = False):
 	if debug: print "--Debugging Activated--"
